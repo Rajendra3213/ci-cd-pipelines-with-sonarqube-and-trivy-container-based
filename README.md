@@ -70,6 +70,3 @@ git push origin v1.0.0
 ```bash
 git push origin --tags
 ```
-
-
-# hey this is new
